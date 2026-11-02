@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Baibhav Dhital, an undergraduate at Pulchowk Campus, Tribhuvan University persuing a Bachelor degree in Computer Engineering. I am currently studying Machine Learning.
+I am Baibhav Dhital, a highschool student at St. Xavier's College. I am currently studying Machine Learning.
 
 Please feel free to connect with me at: baibhavdtl@gmail.com / 082bct016.baibhav@pcampus.edu.np
