@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 I am Baibhav Dhital, a highschool student at St. Xavier's College. I am currently studying Machine Learning.
 
-Please feel free to connect with me at: baibhavdtl@gmail.com / 082bct016.baibhav@pcampus.edu.np
+Please feel free to connect with me at: baibhavdtl@gmail.com / 023neb733@sxc.edu.np
